@@ -1,4 +1,4 @@
-Using the standalone jOOQ code generator with Gradle and VertabeloXML
+Using the standalone jOOQ code generator with Gradle and VertabeloAPI
 ======================================================================
 
 Usage
